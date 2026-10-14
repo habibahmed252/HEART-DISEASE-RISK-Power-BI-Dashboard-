@@ -11,12 +11,12 @@ Heart Disease Risk is an interactive Power BI dashboard designed to explore how 
 The dashboard brings patient-level health data into a set of focused report pages, helping users explore patterns, compare groups, and identify factors that may deserve further investigation.
 
 This project focuses on data analysis and visualization. It is not a diagnostic tool, does not predict an individual's medical outcome, and should not be used as a substitute for professional medical advice.
-<img width="1231" height="762" alt="overview" src="https://github.com/user-attachments/assets/b64c3016-98d6-4767-bcb4-9abf6a713a2c" />
+
 ============================================================
 DASHBOARD DEMO
 ============================================================
 
-YouTube Demo: [ADD YOUR YOUTUBE VIDEO LINK HERE]
+YouTube Demo: [https://youtu.be/MwlUmarrXiM]
 
 The demo video walks through the dashboard pages, interactive filters, and the main observations.
 
@@ -25,19 +25,24 @@ DASHBOARD PREVIEW
 ============================================================
 
 Home Page
-[ADD HOME PAGE SCREENSHOT HERE]
+<img width="1357" height="756" alt="home" src="https://github.com/user-attachments/assets/d4dce6ab-da34-44fe-8ed4-ac9663a64b98" />
+
 
 Overview
-[ADD OVERVIEW PAGE SCREENSHOT HERE]
+
+<img width="1231" height="762" alt="overview" src="https://github.com/user-attachments/assets/ca96475a-60d2-446e-8d18-f6c85b913122" />
 
 Heart Indicators
-[ADD HEART INDICATORS PAGE SCREENSHOT HERE]
+
+<img width="1294" height="762" alt="heart indicators" src="https://github.com/user-attachments/assets/9be56275-08b5-41a1-98c7-553d627e1ed6" />
 
 Medical Risks & Health Indicators
-[ADD MEDICAL RISKS PAGE SCREENSHOT HERE]
+<img width="1239" height="762" alt="medical risks" src="https://github.com/user-attachments/assets/a57f270e-2ff3-485e-88ad-9fb293b61b5a" />
+
 
 Lifestyle
-[ADD LIFESTYLE PAGE SCREENSHOT HERE]
+<img width="1278" height="762" alt="life style" src="https://github.com/user-attachments/assets/bf1aa0f9-0b46-458b-8d61-4d070a5d59bf" />
+
 
 
 ============================================================
