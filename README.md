@@ -2,7 +2,6 @@ HEART DISEASE RISK
 Power BI Dashboard | Health Data Analytics
 
 ============================================================
-
 PROJECT OVERVIEW
 ============================================================
 
