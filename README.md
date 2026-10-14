@@ -173,4 +173,115 @@ This page focuses on blood pressure, blood sugar, HbA1c, BMI, and lipid-profile 
 **Main Visuals & Questions**
 
 - **Average HbA1c:** What is the average HbA1c level in the selected population?
-- **Average LDL:** What is the average LDL
+- **Average LDL:** What is the average LDL level in the selected population?
+- **Average Systolic Blood Pressure:** What is the average systolic blood pressure?
+- **Average Diastolic Blood Pressure:** What is the average diastolic blood pressure?
+- **Blood Pressure Levels:** How do systolic and diastolic measurements compare by heart disease status?
+- **HbA1c & Fasting Blood Sugar:** How do these blood sugar indicators compare between the two groups?
+- **HbA1c & BMI by Heart Disease Status:** How do these measurements vary by outcome?
+- **Lipid Profile Breakdown:** How do LDL, HDL, and triglycerides compare between the groups?
+
+**Key Insights**
+
+- Comparing systolic and diastolic blood pressure by outcome can show whether the groups have different average profiles.
+- HbA1c and fasting blood sugar describe related but different aspects of blood-glucose status; they should not be treated as interchangeable measurements.
+- LDL, HDL, and triglycerides should be reviewed together for a broader lipid-profile comparison.
+- BMI may vary across the outcome groups, but group averages do not describe every patient's individual risk.
+- Slicers can be used to check whether observed patterns remain similar across age segments, sex, smoking status, stress score, and heart disease status.
+
+### 5. Lifestyle
+
+**Purpose**
+
+This page explores how lifestyle-related variables are distributed and how they compare between patients with and without heart disease.
+
+**Main Visuals & Questions**
+
+- **Average Sleeping Hours:** What is the average reported sleep duration?
+- **Average BMI:** What is the average BMI in the selected population?
+- **Average Diet Quality:** What is the average diet-quality score?
+- **Average Stress Score:** What is the average stress score?
+- **Stress Score Comparison:** How does average stress score differ between the two outcome groups?
+- **Weekly Physical Activity:** How do weekly exercise minutes compare between the groups?
+- **Patient Distribution by Smoking Habits:** How are patients distributed across smoking categories?
+- **Overall Heart Disease Prevalence:** How many cases and non-cases are represented in the selected population?
+
+**Key Insights**
+
+- Higher stress scores appear associated with higher observed heart disease prevalence in this dataset. This is an association, not proof of causation.
+- Comparing weekly exercise minutes can reveal differences in reported activity between the groups.
+- Sleep duration and diet-quality scores add context to the lifestyle profile of the selected population.
+- Smoking comparisons should be interpreted with the size and composition of each smoking category in mind.
+- Filters for stress score, exercise minutes, alcohol consumption, age segment, sex, and smoking status allow more focused comparisons.
+
+---
+
+## Interactivity & User Experience
+
+The report includes interactive filters such as:
+
+- Age Segmentation
+- Gender
+- Heart Disease Status
+- Smoking Status
+- Stress Score
+- Alcohol Units per Week
+- Exercise Minutes per Week
+
+Available filters vary by page. Selecting a filter updates the relevant visuals so users can compare specific segments of the patient population.
+
+The report also includes page-navigation buttons and Help Tooltips that explain the analytical question associated with selected visuals.
+
+## Key Findings — Summary
+
+- The dashboard enables comparison of medical indicators and lifestyle characteristics by heart disease status.
+- Stress score is a pattern worth investigating because higher scores appear associated with higher heart disease prevalence in this dataset.
+- Age-group, chest-pain, exercise-induced-angina, blood pressure, blood sugar, and lipid-profile comparisons provide additional context for understanding differences between the groups.
+- Interactive filters make it possible to explore whether these patterns vary across demographic and lifestyle subgroups.
+
+These findings should be checked against the final dashboard values before publication. The relationships described are not proof of causation, and statistical significance should not be claimed unless suitable statistical tests have been performed.
+
+## Limitations
+
+- The dashboard presents descriptive comparisons and associations; it does not establish causality.
+- Results depend on the dataset's coverage, quality, definitions, and representativeness.
+- Averages and percentages may hide variation within subgroups.
+- Filter selections change the population being summarized, so KPI values should always be read in the context of the active filters.
+- This report is for educational and analytical purposes only and is not a medical diagnosis or clinical risk assessment.
+
+## Future Improvements
+
+- Add a clear data-source citation and data dictionary.
+- Document data cleaning and transformation steps.
+- Include verified record counts and final KPI values.
+- Add statistical tests or confidence intervals where appropriate.
+- Improve accessibility with consistent labels, readable contrast, and descriptive alt text for screenshots.
+- Validate every Help Tooltip question against the visual it describes.
+- Add a short guided walkthrough explaining the most important findings.
+
+## Project Structure
+
+```text
+Heart-Disease-Risk/
+├── README.md
+├── images/
+│   ├── home.png
+│   ├── overview.png
+│   ├── heart-indicators.png
+│   ├── medical-risks.png
+│   └── lifestyle.png
+├── dashboard/
+│   └── heart-disease-risk.pbix
+└── demo/
+    └── youtube-demo-link.txt
+```
+
+Adjust the folder structure to match the files you choose to publish.
+
+## Author
+
+**Habiba Ahmed**  
+AI & Data Engineering | Data Analytics
+
+- GitHub: [Add your GitHub profile link]
+- LinkedIn: [Add your LinkedIn profile link]
