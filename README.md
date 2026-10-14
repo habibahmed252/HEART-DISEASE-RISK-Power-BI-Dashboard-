@@ -15,7 +15,7 @@ This project focuses on data analysis and visualization. It is not a diagnostic 
 DASHBOARD DEMO
 ============================================================
 
-YouTube Demo: [https://youtu.be/MwlUmarrXiM]
+YouTube Demo: [ADD YOUR YOUTUBE VIDEO LINK HERE]
 
 The demo video walks through the dashboard pages, interactive filters, and the main observations.
 
@@ -24,24 +24,19 @@ DASHBOARD PREVIEW
 ============================================================
 
 Home Page
-<img width="1357" height="756" alt="home" src="https://github.com/user-attachments/assets/d4dce6ab-da34-44fe-8ed4-ac9663a64b98" />
-
+[ADD HOME PAGE SCREENSHOT HERE]
 
 Overview
-
-<img width="1231" height="762" alt="overview" src="https://github.com/user-attachments/assets/ca96475a-60d2-446e-8d18-f6c85b913122" />
+[ADD OVERVIEW PAGE SCREENSHOT HERE]
 
 Heart Indicators
-
-<img width="1294" height="762" alt="heart indicators" src="https://github.com/user-attachments/assets/9be56275-08b5-41a1-98c7-553d627e1ed6" />
+[ADD HEART INDICATORS PAGE SCREENSHOT HERE]
 
 Medical Risks & Health Indicators
-<img width="1239" height="762" alt="medical risks" src="https://github.com/user-attachments/assets/a57f270e-2ff3-485e-88ad-9fb293b61b5a" />
-
+[ADD MEDICAL RISKS PAGE SCREENSHOT HERE]
 
 Lifestyle
-<img width="1278" height="762" alt="life style" src="https://github.com/user-attachments/assets/bf1aa0f9-0b46-458b-8d61-4d070a5d59bf" />
-
+[ADD LIFESTYLE PAGE SCREENSHOT HERE]
 
 
 ============================================================
@@ -288,15 +283,3 @@ AUTHOR
 Habiba Ahmed
 AI & Data Engineering | Data Analytics
 
-GitHub: [ADD YOUR GITHUB PROFILE LINK]
-LinkedIn: [ADD YOUR LINKEDIN PROFILE LINK]
-
-============================================================
-NOTES BEFORE PUBLISHING
-============================================================
-
-1. Replace every [ADD ... HERE] placeholder with your actual link or screenshot.
-2. Confirm the dataset source, dataset size, and cleaning steps before documenting them.
-3. Check that all chart titles and Help Tooltip questions match the displayed fields.
-4. Verify the final KPI values and chart patterns before turning qualitative observations into numerical claims.
-5. If you publish screenshots, remove any private or sensitive information.
