@@ -2,6 +2,7 @@ HEART DISEASE RISK
 Power BI Dashboard | Health Data Analytics
 
 ============================================================
+
 PROJECT OVERVIEW
 ============================================================
 
@@ -10,7 +11,7 @@ Heart Disease Risk is an interactive Power BI dashboard designed to explore how 
 The dashboard brings patient-level health data into a set of focused report pages, helping users explore patterns, compare groups, and identify factors that may deserve further investigation.
 
 This project focuses on data analysis and visualization. It is not a diagnostic tool, does not predict an individual's medical outcome, and should not be used as a substitute for professional medical advice.
-
+<img width="1231" height="762" alt="overview" src="https://github.com/user-attachments/assets/b64c3016-98d6-4767-bcb4-9abf6a713a2c" />
 ============================================================
 DASHBOARD DEMO
 ============================================================
